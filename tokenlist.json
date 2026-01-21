@@ -2,7 +2,7 @@
   "name": "USDTz Verified List",
   "timestamp": "2026-01-19T02:30:00Z",
   "version": { "major": 1, "minor": 0, "patch": 0 },
-  "logoURI": "https://usdtz-registry.com/logo.png",
+  "logoURI": "https://usdtz-registry.com/assets/logo.png",
   "keywords": ["usdtz", "zed20", "registry"],
   "tokens": [
     {
@@ -10,7 +10,7 @@
       "address": "0x2AEa38D43347fF819875d576331dBd31a4a7f41c",
       "decimals": 18,
       "symbol": "USDT.z",
-      "name": "Tether USD Bridged ZED20",
+      "name": "Tether USD Bridged ZED.20",
       "logoURI": "https://usdtz-registry.com/assets/logo.png",
       "tags": []
     }
