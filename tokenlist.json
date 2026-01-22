@@ -1,9 +1,13 @@
 {
-  "name": "USDTz Verified List",
-  "timestamp": "2026-01-19T02:30:00Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "logoURI": "https://usdtz-registry.com/assets/logo.png",
-  "keywords": ["usdtz", "zed20", "registry"],
+  "name": "USDT.z Verified List",
+  "timestamp": "2026-01-22T16:40:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "logoURI": "https://raw.githubusercontent.com/USDTzRegistry/usdtz-list/refs/heads/main/logo.png",
+  "keywords": ["usdt.z", "zed.20", "registry"],
   "tokens": [
     {
       "chainId": 56,
@@ -11,7 +15,7 @@
       "decimals": 18,
       "symbol": "USDT.z",
       "name": "Tether USD Bridged ZED.20",
-      "logoURI": "https://usdtz-registry.com/assets/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/USDTzRegistry/usdtz-list/refs/heads/main/logo.png",
       "tags": []
     }
   ]
