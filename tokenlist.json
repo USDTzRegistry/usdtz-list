@@ -1,7 +1,7 @@
 {
   "name": "USDT.z Verified List",
   "timestamp": "2026-01-22T17:15:00Z",
-  "version": {"major": 1, "minor": 0, "patch": 1},
+  "version": {"major": 1, "minor": 0, "patch": 2},
   "logoURI": "https://raw.githubusercontent.com/USDTzRegistry/usdtz-list/main/logo.png",
   "keywords": ["usdtz", "zed20"],
   "tokens": [
